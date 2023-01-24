@@ -17,7 +17,7 @@ function App() {
         >
           hello.....!
         </a>
-	  <h1>Change from feature branch<h1>
+	  <h1>Change from feature branch</h1>
       </header>
     </div>
   );
